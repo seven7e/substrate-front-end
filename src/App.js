@@ -59,9 +59,11 @@ function Main () {
           <Grid.Row stretched>
             <NodeInfo />
             <Metadata />
-            <BlockNumber />
-            <BlockNumber finalized />
           </Grid.Row>
+            <BlockNumber />
+          {/* <Grid.Row stretched> */}
+            <BlockNumber finalized />
+          {/* </Grid.Row> */}
           {/* <Grid.Row stretched>
             <Balances />
           </Grid.Row> */}
