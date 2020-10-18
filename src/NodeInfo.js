@@ -32,7 +32,7 @@ function Main (props) {
             <span>{nodeInfo.chain}</span>
           </Card.Meta>
           <Card.Description>
-            Built using the{' '}
+            This app is modified from {' '}
             <a href='https://github.com/substrate-developer-hub/substrate-front-end-template'>
               Substrate Front End Template
             </a>
